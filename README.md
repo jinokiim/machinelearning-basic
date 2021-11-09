@@ -62,7 +62,7 @@
       ```console
       $ jupyter notebook
       ```
-      
+![캡처](https://user-images.githubusercontent.com/88222461/140847938-6df42bf3-e182-4f64-ba22-83a79bfd8aa1.PNG)
 ---
 
 ## basic setting

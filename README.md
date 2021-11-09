@@ -10,7 +10,7 @@
 
 ---
 
-## basic setting
+## Basic Setting
 1. 아나콘다 다운로드
     1) 크롬 브라우저 실행  
     2) https://www.anaconda.com/download/ 링크로 이동 설치파일 다운로드  

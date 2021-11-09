@@ -67,3 +67,11 @@
 ---
 
 ## Install Scikit-learn for Machine Learning
+
+```console
+$ conda install scikit-learn
+```
+---
+
+## 
+

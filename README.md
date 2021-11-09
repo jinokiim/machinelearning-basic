@@ -35,7 +35,12 @@
 
     - 아나콘다 가상환경 생성
       ```console
-      $ conda create -n 가상환경이름 python=3.8
+      $ conda create -n ml python=3.8
+      ```
+      
+    - ml 가상환경 접속
+      ```console
+      $ conda create -n ml python=3.8
       ```
 
     - 패키지 설치
@@ -53,7 +58,11 @@
       $ jupyter contrib nbextension install
       ```
 
-    - 
+    - 주피터 노트북 실행
       ```console
-      $ 
+      $ jupyter notebook
       ```
+      
+---
+
+## basic setting

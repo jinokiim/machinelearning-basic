@@ -3,7 +3,7 @@
 ---
 
 ## Contents
-* basic setting
+* [basic setting](#basic-setting)
 * 
 
 

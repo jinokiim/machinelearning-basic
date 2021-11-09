@@ -4,7 +4,7 @@
 
 ## Contents
 * [Basic Setting](#basic-setting)
-* [Install scikit-learn](#install-scikit-learn)
+* [Install Scikit-learn](#install-scikit-learn)
 
 
 

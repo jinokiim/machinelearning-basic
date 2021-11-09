@@ -4,7 +4,7 @@
 
 ## Contents
 * [Basic Setting](#basic-setting)
-* [Install Scikit-learn](#install-scikit-learn)
+* [Install Scikit-learn for Machine Learning](#install-scikit-learn)
 
 
 
@@ -66,4 +66,4 @@
 ![캡처](https://user-images.githubusercontent.com/88222461/140847938-6df42bf3-e182-4f64-ba22-83a79bfd8aa1.PNG)
 ---
 
-## Install Scikit-learn
+## Install Scikit-learn for Machine Learning

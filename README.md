@@ -3,7 +3,8 @@
 ---
 
 ## Contents
-
+* basic setting
+* 
 
 
 

@@ -1,5 +1,6 @@
 # machinelearning-basic
-
+---
+* [Basic](https://github.com/jinokiim/machinelearning-basic/tree/main/basics)
 ---
 
 ## Contents

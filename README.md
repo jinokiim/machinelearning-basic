@@ -76,5 +76,25 @@ $ conda install scikit-learn
 ```
 ---
 
-## 
+## graphviz 설치 (오픈소스 다이어그램 생성기)
+[graphviz 홈페이지](https://graphviz.org/download/) 에서 다운로드.  
 
+### Download for Windows  
+#### Stable Windows install packages:  
+*graphviz-2.49.3* 설치
+
+##### 명령프롬프트(cmd) 관리자 권한으로 실행
+```
+dot -c
+```
+입력
+
+##### 가상환경 접속
+```
+conda activate ml
+```
+
+##### graphviz 설치
+```
+pip install graphviz
+```

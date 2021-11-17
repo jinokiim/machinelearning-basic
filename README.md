@@ -49,7 +49,7 @@
       
     - ml 가상환경 접속
       ```console
-      $ conda create -n ml python=3.8
+      $ conda activate 'name'
       ```
 
     - 패키지 설치

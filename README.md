@@ -10,7 +10,7 @@
 * [exercise](#exercise)
 
 ---
-## 
+## Setup
 * [Basic Setting](#basic-setting)
 * [Install Scikit-learn for Machine Learning](#install-scikit-learn-for-machine-learning)
 

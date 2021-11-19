@@ -81,7 +81,7 @@ $ conda install scikit-learn
 ```
 ---
 
-## graphviz 설치 (오픈소스 다이어그램 생성기)
+### graphviz 설치 (오픈소스 다이어그램 생성기)
 [graphviz 홈페이지](https://graphviz.org/download/) 에서 다운로드.  
 
 ### Download for Windows  
@@ -103,7 +103,7 @@ conda activate ml
 ```
 pip install graphviz
 ```
-### XGBoost(Extra Gradient Boost)
+### XGBoost(Extra Gradient Boost) 설치
 - https://xgboost.readthedocs.io/ 
 - Gradient Boost 알고리즘을 기반으로 개선해서 분산환경에서도 실행할 수 있도록 구현 나온 모델.
 - Gradient Boost의 단점인 느린수행시간을 해결하고 과적합을 제어할 수 있는 규제들을 제공하여 성능을 높임.
@@ -112,7 +112,7 @@ pip install graphviz
 - 두가지 개발 방법
     - [Scikit-learn 래퍼 XGBoost 모듈 사용](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn)
     - [파이썬 래퍼 XGBoost 모듈 사용](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.training)
-- 설치
+##### XGBoost 설치
 ``
-conda install -y -c anaconda py-xgboost
+$ conda install -y -c anaconda py-xgboost
 ``

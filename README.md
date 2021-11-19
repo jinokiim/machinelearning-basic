@@ -54,7 +54,7 @@
 
     - 패키지 설치
       ```console
-      $ conda install scikit-learn matploylib seaborn pandas notebook
+      $ conda install scikit-learn matplotlib seaborn pandas notebook
       ```
 
     - 주피터 노트북 탭 자동완성 삭제

@@ -103,3 +103,16 @@ conda activate ml
 ```
 pip install graphviz
 ```
+### XGBoost(Extra Gradient Boost)
+- https://xgboost.readthedocs.io/ 
+- Gradient Boost 알고리즘을 기반으로 개선해서 분산환경에서도 실행할 수 있도록 구현 나온 모델.
+- Gradient Boost의 단점인 느린수행시간을 해결하고 과적합을 제어할 수 있는 규제들을 제공하여 성능을 높임.
+- 회귀와 분류 모두 지원한다.
+- 캐글 경진대회에서 상위에 입상한 데이터 과학자들이 사용한 것을 알려저 유명해짐.
+- 두가지 개발 방법
+    - [Scikit-learn 래퍼 XGBoost 모듈 사용](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn)
+    - [파이썬 래퍼 XGBoost 모듈 사용](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.training)
+- 설치
+``
+conda install -y -c anaconda py-xgboost
+``

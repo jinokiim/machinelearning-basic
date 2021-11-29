@@ -89,10 +89,7 @@ $ conda install scikit-learn
 *graphviz-2.49.3* 설치
 
 ##### 명령프롬프트(cmd) 관리자 권한으로 실행
-```
-dot -c
-```
-입력
+
 
 ##### 가상환경 접속
 ```
@@ -103,6 +100,10 @@ conda activate ml
 ```
 pip install graphviz
 ```
+```
+dot -c
+```
+입력
 ### XGBoost(Extra Gradient Boost) 설치
 - https://xgboost.readthedocs.io/ 
 - Gradient Boost 알고리즘을 기반으로 개선해서 분산환경에서도 실행할 수 있도록 구현 나온 모델.

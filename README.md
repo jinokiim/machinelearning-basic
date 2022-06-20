@@ -57,7 +57,7 @@
 
     - 아나콘다 가상환경 생성
       ```console
-      $ conda create -n ml python=3.8
+      $ conda create -n ml(<-만드려는 가상환경이름) python=3.8
       ```
       
     - ml 가상환경 접속
